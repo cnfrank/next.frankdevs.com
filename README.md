@@ -1,6 +1,6 @@
-# Next.js Crash Course Project
+# Next.js Project
 
-Project from my Next.js crash course on YouTube
+It is a Next.js Project
 
 ### Run the development server:
 
