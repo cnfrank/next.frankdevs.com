@@ -1,3 +1,12 @@
+/*
+ * @Author: Frank Zhou
+ * @Email: cnfrank527@gmail.com
+ * @Date: 2022-09-26 22:24:16
+ * @LastEditors: Frank Zhou
+ * @LastEditTime: 2022-09-27 14:02:28
+ * @Description: file content
+ * @FilePath: /next-crash-course/components/Meta.js
+ */
 import Head from 'next/head'
 
 const Meta = ({ title, keywords, description }) => {
@@ -14,9 +23,9 @@ const Meta = ({ title, keywords, description }) => {
 }
 
 Meta.defaultProps = {
-  title: 'WebDev Newz',
+  title: 'FrankDevs',
   keywords: 'web development, programming',
-  description: 'Get the latest news in web dev',
+  description: 'Get the latest works in FrankDevs',
 }
 
 export default Meta
